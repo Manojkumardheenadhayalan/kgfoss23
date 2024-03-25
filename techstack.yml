@@ -1,0 +1,20 @@
+repo_name: Manojkumardheenadhayalan/kgfoss23
+report_id: 667a5003242f57f12153e67663c77100
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-25T11:19:36+00:00'
+requested_by: Manojkumardheenadhayalan
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/kgfoss23
+  detection_source: Repo Metadata
